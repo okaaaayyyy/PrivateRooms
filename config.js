@@ -1,7 +1,7 @@
 const { Intents } = require('discord.js')
 
 module.exports.internal = {
-    token: 'OTY3MDE2NDE0MTYwNTE5MjM4.YmKKNw.3ljX6ULPD01V_xQ2Ppf6S-VEU1Y',
+    token: 'OTY3MDE2NDE0MTYwNTE5MjM4.G1o_xf.IdiQ_qPCS8Dk8BhmrukwRCd8WSwkzrErYRTUA4',
     mongoURL: 'mongodb+srv://Dain:56135586@bot.bls3s.mongodb.net/myFirstDatabase?retryWrites=true&w=majority',
     prefix:'!'
 }
@@ -10,7 +10,7 @@ module.exports.intents = [
     Intents.FLAGS.GUILDS,
     Intents.FLAGS.GUILD_PRESENCES,
     Intents.FLAGS.GUILD_MEMBERS,
-    Intents.FLAGS.GUILD_EMOJIS_AND_STICKERS,
+    Intents.FLAGS.GUILD_EMOJIS_AND_STICKERS,https://github.com/okaaaayyyy/PrivateRooms/blob/main/config.js
     Intents.FLAGS.GUILD_VOICE_STATES,
     Intents.FLAGS.GUILD_MESSAGES,
     Intents.FLAGS.GUILD_MESSAGE_REACTIONS,
